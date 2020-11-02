@@ -13,6 +13,7 @@ let fileName  = arguments[2];
 const fileExists = fs.existsSync(fileName);
 
 if (fileExists === false) {
+    console.log("Sorry, that file doesn't exist! Check your filepath.");
     return; 
 }
 
@@ -21,6 +22,7 @@ let fileContents = fs.readFileSync(fileName, "utf-8");
 
 // console.log(fileContents);
 
+// Count Letter START
 let contentArray =  fileContents.split("");
 
 // console.log(contentArray);
@@ -29,7 +31,7 @@ let letterCount = 0;
 
 for (let i = 0; i < contentArray.length; i++){
 
-    if (contentArray[i] === " " || contentArray[i] === "," || contentArray[i] === "?" || contentArray[i] === "!") {
+    if (contentArray[i] === " " || contentArray[i] === "," || contentArray[i] === "." || contentArray[i] === "?" || contentArray[i] === "!") {
         continue;
     } else {
         letterCount++;
@@ -39,13 +41,11 @@ for (let i = 0; i < contentArray.length; i++){
 
 console.log(`The file ${fileName} contains a total of ${letterCount} letters.`);
 
-// count letters ENS
+// Count Letters END
 
-// count words START
+// Count Words START
 
 let wordArray = fileContents.split(" ");
-
-console.log(wordArray.length);
 
 console.log(`It has a total of ${wordArray.length} words in it.`);
 

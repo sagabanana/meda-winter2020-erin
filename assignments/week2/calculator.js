@@ -18,16 +18,13 @@ if (isNaN(num1Converted) || isNaN(num2Converted)) {
     if (mathOperator === "+" || mathOperator === "plus") {
     console.log(`The sum of ${num1Converted} and ${num2Converted} is ${num1Converted + num2Converted}.`);
 } else if  (mathOperator === "-" || mathOperator === "minus") {
-    console.log(`The sum of ${num1Converted} and ${num2Converted} is ${num1Converted + num2Converted}.`);
-} else if (mathOperator === "*" || mathOperator === "x" ||
-mathOperator === "times") {
-    console.log(`The product of ${num1Converted} and $
-    {num2Converted} is ${num1Converted * num2Converted}.`);
-} else if (mathOperator === "/" || mathOperator === "divide") {
+    console.log(`The difference of ${num1Converted} and ${num2Converted} is ${num1Converted - num2Converted}.`);
+} else if (mathOperator === "x" || mathOperator === "times") {
+    console.log(`The product of ${num1Converted} and ${num2Converted} is ${num1Converted * num2Converted}.`);
+    } else if (mathOperator === "/" || mathOperator === "divide") {
         console.log(`The quotient of ${number1Converted} and ${num2Converted} is ${num1Converted / num2Converted}.`);
     }
 }
-
 
 
 
