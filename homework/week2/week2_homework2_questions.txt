@@ -1,0 +1,43 @@
+Why are you taking the back-end class? What are your current expectations of the back-end class? 
+
+So I can understand how the front-end and the back-end work together. My expectation is to be able to learn and understand JavaScript so I can actually build something using JavaScript. 
+
+
+Before front-end class, did you have coding experience? What computer language(s) and how long ago?
+
+A little.  I took some online courses from Udemy and Udacity. The first language that I tried to learn was JavaScript, 2018, then had an opportunity to learn SQL via a data science scholarship, 2018.  I scratched a bit, trying to play with Python, 2019. 
+
+What front-end topics did you find difficult or what did you struggle with?
+
+I think CSS was a bit more challenging than HTML.  These were all new languages with their own rules to follow in which requires attention, time, effort and focus to master and understand - for examples, how to resize the photo, fonts, colors to balance to fit together.  
+
+Did the front-end class meet your expectations? Explain how it did or did not.
+
+Yes and no.  Yes, because there were some parts that connected - clicked - together while there are parts didn't for various reasons.  I discovered that there are other ways to build a webpage to a website.  We only explored one way to build a webpage during the class under the given circumstance.  Overall, I am glad I was able to sample and learn together with the peers and the instructor online. 
+
+
+Are you switching careers or looking to add skills to your resume? Why?
+Neither. A very good question.  I am learning for the sake of learning at this point so I can eventually use these skills for the future.
+
+
+What books or other resources are you depending on outside of class to enhance your learning?
+
+freecodecamp.com, Udacity, Udemy, Google, and peers.  I think taking other interactive classes, doing projects always help as they give an opportunity to practice what we learned in the class.
+
+
+Other than HTML, CSS, and JavaScript, what other computer languages are you currently learning or are interested in learning? Why?
+
+Previously, I tried to juggle multiple languages/skills at the same time but I discovered that it doesn't work very well, not beneficial.  I am focusing on HTML, CSS and JavaScript now.
+
+
+Where do you see the industry going in the future?
+
+There are infinite possibilities.  Technology could enable and help people to better themselves and the people around them, on the other hand, it could equally create deeper divide and inequality among people across the globe.  
+
+Today, I see an interconnected industrious world, a hopeful, fair, caring, thoughtful, and hilarious future because I see my son who is hopeful, fair, caring, thoughtful and hilarious. I see him and his friends and they will make it better than what we are doing now. 
+
+
+After taking the back-end class do you plan or have already planned on continuing your learning in tech? What specifically do you plan on focusing?
+
+The latter.  I am on a scholarship to learn ML which requires a lot of time and effort from me.  Again, for now I want to focus on JavaScript.  
+
