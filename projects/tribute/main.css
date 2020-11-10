@@ -22,12 +22,14 @@ ul {
     font-family: 'Roboto Mono', monospace;
     font-size: 5em;
     color: gold;
+    text-align: center;
 }
 
 .header-subtitle {
     font-family: 'Roboto Mono', monospace;
     font-size: 2.2em;
     color: teal;
+    text-align: center;
 }
 
 .image {
@@ -47,6 +49,7 @@ ul {
     font-family: 'Roboto Mono', monospace;
     font-size: 3em;
     margin: 42px;
+    text-align: center;
 }
 
 .quote {
